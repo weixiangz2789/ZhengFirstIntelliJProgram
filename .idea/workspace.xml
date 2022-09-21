@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e9a8b37-b01e-46f7-843f-5e5bd7a75218" name="Changes" comment="" />
+    <list default="true" id="4e9a8b37-b01e-46f7-843f-5e5bd7a75218" name="Changes" comment="Changed printed statement" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663768503885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed printed statement">
+      <created>1663783285308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663783285308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed printed statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed printed statement" />
   </component>
 </project>
